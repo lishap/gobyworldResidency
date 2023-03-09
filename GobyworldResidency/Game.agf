@@ -6433,6 +6433,13 @@
                     <Image>94</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>10</ID>
+                    <Image>85</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
                 </Frames>
               </Loop>
               <Loop>
@@ -6509,6 +6516,13 @@
                     <Image>84</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>10</ID>
+                    <Image>75</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
                 </Frames>
               </Loop>
               <Loop>
@@ -6583,6 +6597,13 @@
                     <Flipped>False</Flipped>
                     <ID>9</ID>
                     <Image>74</Image>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <Delay>0</Delay>
+                    <Flipped>False</Flipped>
+                    <ID>10</ID>
+                    <Image>65</Image>
                     <Sound>0</Sound>
                   </ViewFrame>
                 </Frames>
