@@ -2307,8 +2307,8 @@
             <MovementSpeedY>0</MovementSpeedY>
             <NormalView>2</NormalView>
             <Properties />
-            <RealName xml:space="preserve">New character</RealName>
-            <ScriptName>cChar1</ScriptName>
+            <RealName>Goby</RealName>
+            <ScriptName>cGoby</ScriptName>
             <Solid>True</Solid>
             <SpeechAnimationDelay>5</SpeechAnimationDelay>
             <SpeechColor>12</SpeechColor>
